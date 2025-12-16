@@ -14,6 +14,7 @@ with the highest projected percentage increases in poverty were identified and v
 geospatial maps.
 
 Main code: code/vermont_poverty_forecasting.R
+
 Report: output/luke_liles_stat4840_final_project.pdf
 
 **Tools:** R, tidyverse, time series analysis, ARIMA, ETS, ggplot2  
