@@ -13,5 +13,8 @@ statewide forecasting approach. Five-year forecasts were generated for each coun
 with the highest projected percentage increases in poverty were identified and visualized using
 geospatial maps.
 
+Main code: code/vermont_poverty_forecasting.R
+Report: output/luke_liles_stat4840_final_project.pdf
+
 **Tools:** R, tidyverse, time series analysis, ARIMA, ETS, ggplot2  
 **Course:** STAT 4840 – Time Series 
